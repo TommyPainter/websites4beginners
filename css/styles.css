@@ -44,7 +44,7 @@ h1 {
     margin-top:110px;
 }
 .footer {
-    background-color:darkblue;
+    background-color:aqua;
 }
 
 .nav-list a {
@@ -125,6 +125,9 @@ font-family: 'Times New Roman', Times, serif;   font-weight: 900px;
 }
 .section-p {
     margin-left:30px;
+}
+.social { 
+font-size: 2em;
 }
 /* .contact-header {
     background-color: blue;
